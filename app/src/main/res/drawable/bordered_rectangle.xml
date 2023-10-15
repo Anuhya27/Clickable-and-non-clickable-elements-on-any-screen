@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/bordered_rectangle.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Set filling color to transparent -->
+    <stroke
+        android:color="#00FF00"
+        android:width="2dp"
+        />
+        !-- Border width in dp -->
+</shape>
