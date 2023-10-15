@@ -1,0 +1,1 @@
+# Clickable-and-non-clickable-elements-on-any-screen
