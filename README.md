@@ -1,5 +1,9 @@
 **Identifying Clickable and non-clickable Elements on the screen**
 
+**Output**
+
+https://github.com/Anuhya27/Clickable-and-non-clickable-elements-on-any-screen/assets/56588616/3950d974-c4fd-4abb-973c-b670a542ebf6
+
 **Problem Statement:**
 
 In the realm of Android application usability, the challenge lies in distinguishing between clickable and non-clickable elements within diverse app interfaces. To address this, the task is to develop an Android application equipped with advanced detection capabilities. This application must be able to identify all interactive UI elements on any given Android app screen and draw green boxes around them. Simultaneously, the application should recognize non-clickable elements, such as section headings and textual content, and draw red boxes around them. This functionality is pivotal for providing users with clear visual cues, thereby enhancing their navigation experience and ensuring efficient interaction with mobile applications. The solution requires precision and efficiency in discerning between these UI components, guaranteeing an intuitive and user-friendly interface across various Android applications.
@@ -92,7 +96,4 @@ Accessibility service for detecting UI elements and drawing rectangles.
 - `showProcessingIndicator()`: Displays the processing indicator.
 - `hideProcessingIndicator()`: Hides the processing indicator.
 
-**Output**
-
-https://github.com/Anuhya27/Clickable-and-non-clickable-elements-on-any-screen/assets/56588616/3950d974-c4fd-4abb-973c-b670a542ebf6
 
